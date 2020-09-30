@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahi97)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mahi97&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi97&layout=compact&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mahi97/mahi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
